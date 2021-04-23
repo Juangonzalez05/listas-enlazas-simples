@@ -1,6 +1,6 @@
 CLASE OBJECT EN JAVA
 
-La clase Object, como ya se ha indicado anteriormente, es la clase raíz de todo el árbol de la jerarquía de clases Java,
+La clase Object, es la clase raíz de todo el árbol de la jerarquía de clases Java,
 y proporciona un cierto número de métodos de utilidad general que pueden utilizar todos los objetos. 
 La lista completa se puede ver en la documentación del API de Java, aquí solamente se tratarán algunos de ellos; 
 por ejemplo, Object proporciona:
